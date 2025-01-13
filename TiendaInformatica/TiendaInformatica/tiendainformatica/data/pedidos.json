@@ -1,0 +1,182 @@
+[
+    {
+        "id_pedido": 1,
+        "nombre_producto": "ThinkPad",
+        "precio": 200.0,
+        "stock": 2,
+        "forma_pago": "bizum",
+        "usuario_cliente": "Usuario1",
+        "direccion_pedido": "Calle 1"
+    },
+    {
+        "id_pedido": 2,
+        "nombre_producto": "Inspiron",
+        "precio": 300.0,
+        "stock": 1,
+        "forma_pago": "tarjeta",
+        "usuario_cliente": "Usuario2",
+        "direccion_pedido": "Calle 2"
+    },
+    {
+        "id_pedido": 3,
+        "nombre_producto": "MacBook",
+        "precio": 1200.0,
+        "stock": 5,
+        "forma_pago": "efectivo",
+        "usuario_cliente": "Usuario3",
+        "direccion_pedido": "Calle 3"
+    },
+    {
+        "id_pedido": 4,
+        "nombre_producto": "Predator",
+        "precio": 800.0,
+        "stock": 2,
+        "forma_pago": "bizum",
+        "usuario_cliente": "Usuario4",
+        "direccion_pedido": "Calle 4"
+    },
+    {
+        "id_pedido": 5,
+        "nombre_producto": "Omen",
+        "precio": 750.0,
+        "stock": 3,
+        "forma_pago": "bizum",
+        "usuario_cliente": "Usuario5",
+        "direccion_pedido": "Calle 5"
+    },
+    {
+        "id_pedido": 6,
+        "nombre_producto": "iMac",
+        "precio": 1300.0,
+        "stock": 4,
+        "forma_pago": "tarjeta",
+        "usuario_cliente": "Usuario6",
+        "direccion_pedido": "Calle 6"
+    },
+    {
+        "id_pedido": 7,
+        "nombre_producto": "Legion",
+        "precio": 700.0,
+        "stock": 6,
+        "forma_pago": "efectivo",
+        "usuario_cliente": "Usuario7",
+        "direccion_pedido": "Calle 7"
+    },
+    {
+        "id_pedido": 8,
+        "nombre_producto": "Vostro",
+        "precio": 550.0,
+        "stock": 2,
+        "forma_pago": "bizum",
+        "usuario_cliente": "Usuario8",
+        "direccion_pedido": "Calle 8"
+    },
+    {
+        "id_pedido": 9,
+        "nombre_producto": "ROG",
+        "precio": 900.0,
+        "stock": 1,
+        "forma_pago": "efectivo",
+        "usuario_cliente": "Usuario9",
+        "direccion_pedido": "Calle 9"
+    },
+    {
+        "id_pedido": 10,
+        "nombre_producto": "Chromebook",
+        "precio": 400.0,
+        "stock": 3,
+        "forma_pago": "tarjeta",
+        "usuario_cliente": "Usuario10",
+        "direccion_pedido": "Calle 10"
+    },
+    {
+        "id_pedido": 11,
+        "nombre_producto": "ZenBook",
+        "precio": 600.0,
+        "stock": 4,
+        "forma_pago": "bizum",
+        "usuario_cliente": "Usuario11",
+        "direccion_pedido": "Calle 11"
+    },
+    {
+        "id_pedido": 12,
+        "nombre_producto": "Swift",
+        "precio": 500.0,
+        "stock": 2,
+        "forma_pago": "tarjeta",
+        "usuario_cliente": "Usuario12",
+        "direccion_pedido": "Calle 12"
+    },
+    {
+        "id_pedido": 13,
+        "nombre_producto": "Pavilion",
+        "precio": 450.0,
+        "stock": 2,
+        "forma_pago": "efectivo",
+        "usuario_cliente": "Usuario13",
+        "direccion_pedido": "Calle 13"
+    },
+    {
+        "id_pedido": 14,
+        "nombre_producto": "Magic Mouse",
+        "precio": 80.0,
+        "stock": 3,
+        "forma_pago": "bizum",
+        "usuario_cliente": "Usuario14",
+        "direccion_pedido": "Calle 14"
+    },
+    {
+        "id_pedido": 15,
+        "nombre_producto": "MX Master",
+        "precio": 100.0,
+        "stock": 1,
+        "forma_pago": "tarjeta",
+        "usuario_cliente": "Usuario15",
+        "direccion_pedido": "Calle 15"
+    },
+    {
+        "id_pedido": 16,
+        "nombre_producto": "Razer Basilisk",
+        "precio": 120.0,
+        "stock": 5,
+        "forma_pago": "efectivo",
+        "usuario_cliente": "Usuario16",
+        "direccion_pedido": "Calle 16"
+    },
+    {
+        "id_pedido": 17,
+        "nombre_producto": "SteelSeries",
+        "precio": 90.0,
+        "stock": 3,
+        "forma_pago": "bizum",
+        "usuario_cliente": "Usuario17",
+        "direccion_pedido": "Calle 17"
+    },
+    {
+        "id_pedido": 18,
+        "nombre_producto": "Kensington",
+        "precio": 50.0,
+        "stock": 2,
+        "forma_pago": "tarjeta",
+        "usuario_cliente": "Usuario18",
+        "direccion_pedido": "Calle 18"
+    },
+    {
+        "id_pedido": 19,
+        "nombre_producto": "Alienware",
+        "precio": 1000.0,
+        "stock": 1,
+        "forma_pago": "efectivo",
+        "usuario_cliente": "Usuario19",
+        "direccion_pedido": "Calle 19"
+    },
+    {
+        "id_pedido": 20,
+        "nombre_producto": "Surface",
+        "precio": 950.0,
+        "stock": 3,
+        "forma_pago": "bizum",
+        "usuario_cliente": "Usuario20",
+        "direccion_pedido": "Calle 20"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "producto01":{
+        "id_producto":1,
+        "nombre":"producto01",
+        "categoria":"ordenadores",
+        "marca":"asus",
+        "precio":1000.0,
+        "stock":1,
+        "imagen":"SAD515165DSCSCF151116519419819811565"
+    }
+}

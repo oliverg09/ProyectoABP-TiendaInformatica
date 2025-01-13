@@ -1,0 +1,163 @@
+[
+    {
+      "nombre": "ThinkPad",
+      "categoria": "Portatiles",
+      "marca": "Lenovo",
+      "precio": 200,
+      "stock": 222,
+      "imagen": "iVBORw0KGgoAAAANSUhEUgAAA94AAAJYCAYAAACU8z5aAAABI3pUWHRSYXcgcHJvZmlsZS…"
+    },
+    {
+      "nombre": "Inspiron",
+      "categoria": "Portatiles",
+      "marca": "Dell",
+      "precio": 300,
+      "stock": 150,
+      "imagen": "aGVsbG8gd29ybGQgYmFzZTY0IHByb2R1Y3Qx"
+    },
+    {
+      "nombre": "MacBook",
+      "categoria": "Portatiles",
+      "marca": "Apple",
+      "precio": 1200,
+      "stock": 50,
+      "imagen": "bWFjYm9vayBpbWFnZSBkYXRhIGhlcmU="
+    },
+    {
+      "nombre": "Predator",
+      "categoria": "Ordenadores",
+      "marca": "Acer",
+      "precio": 800,
+      "stock": 100,
+      "imagen": "cHJlZGF0b3IgaW1hZ2UgaGV4YWRlY2ltYWw="
+    },
+    {
+      "nombre": "Omen",
+      "categoria": "Ordenadores",
+      "marca": "HP",
+      "precio": 750,
+      "stock": 120,
+      "imagen": "b21lbiBoZXhhZGVjaW1hbCBkYXRhIHByb2R1Y3Q="
+    },
+    {
+      "nombre": "iMac",
+      "categoria": "Ordenadores",
+      "marca": "Apple",
+      "precio": 1300,
+      "stock": 30,
+      "imagen": "aW1hYyBpbWFnZSBkYXRhIGhlcmU="
+    },
+    {
+      "nombre": "Legion",
+      "categoria": "Portatiles",
+      "marca": "Lenovo",
+      "precio": 700,
+      "stock": 200,
+      "imagen": "bGVnaW9uIGltYWdlIGRhdGEgaGV4YWRlY2ltYWw="
+    },
+    {
+      "nombre": "Vostro",
+      "categoria": "Portatiles",
+      "marca": "Dell",
+      "precio": 550,
+      "stock": 170,
+      "imagen": "dm9zdHJvIGltYWdlIGRhdGEgaGVyZQ=="
+    },
+    {
+      "nombre": "ROG",
+      "categoria": "Ordenadores",
+      "marca": "Asus",
+      "precio": 900,
+      "stock": 60,
+      "imagen": "cm9nIGhlYWRlY2ltYWwgZGF0YSBoZXJl"
+    },
+    {
+      "nombre": "Chromebook",
+      "categoria": "Portatiles",
+      "marca": "Google",
+      "precio": 400,
+      "stock": 300,
+      "imagen": "Y2hyb21lYm9vayBoZXhhZGVjaW1hbCBkYXRh"
+    },
+    {
+      "nombre": "ZenBook",
+      "categoria": "Portatiles",
+      "marca": "Asus",
+      "precio": 600,
+      "stock": 190,
+      "imagen": "emVuYm9vayBoZXhhZGVjaW1hbCBkYXRh"
+    },
+    {
+      "nombre": "Swift",
+      "categoria": "Portatiles",
+      "marca": "Acer",
+      "precio": 500,
+      "stock": 210,
+      "imagen": "c3dpZnQgaGV4YWRlY2ltYWwgZGF0YQ=="
+    },
+    {
+      "nombre": "Pavilion",
+      "categoria": "Portatiles",
+      "marca": "HP",
+      "precio": 450,
+      "stock": 180,
+      "imagen": "cGF2aWxpb24gaGV4YWRlY2ltYWwgZGF0YQ=="
+    },
+    {
+      "nombre": "Magic Mouse",
+      "categoria": "Raton",
+      "marca": "Apple",
+      "precio": 80,
+      "stock": 400,
+      "imagen": "bWFnaWMgbW91c2UgaGV4YWRlY2ltYWwgZGF0YQ=="
+    },
+    {
+      "nombre": "MX Master",
+      "categoria": "Raton",
+      "marca": "Logitech",
+      "precio": 100,
+      "stock": 350,
+      "imagen": "bXggbWFzdGVyIGhleGFkZWNpbWFsIGRhdGE="
+    },
+    {
+      "nombre": "Razer Basilisk",
+      "categoria": "Raton",
+      "marca": "Razer",
+      "precio": 120,
+      "stock": 250,
+      "imagen": "cmF6ZXIgYmFzaWxpc2sgaGV4YWRlY2ltYWwgZGF0YQ=="
+    },
+    {
+      "nombre": "SteelSeries",
+      "categoria": "Raton",
+      "marca": "SteelSeries",
+      "precio": 90,
+      "stock": 270,
+      "imagen": "c3RlZWxzZXJpZXMgaGV4YWRlY2ltYWwgZGF0YQ=="
+    },
+    {
+      "nombre": "Kensington",
+      "categoria": "Raton",
+      "marca": "Kensington",
+      "precio": 50,
+      "stock": 500,
+      "imagen": "a2Vuc2luZ3RvbiBoZXhhZGVjaW1hbCBkYXRh"
+    },
+    {
+      "nombre": "Alienware",
+      "categoria": "Ordenadores",
+      "marca": "Dell",
+      "precio": 1000,
+      "stock": 80,
+      "imagen": "YWxpZW53YXJlIGhleGFkZWNpbWFsIGRhdGE="
+    },
+    {
+      "nombre": "Surface",
+      "categoria": "Portatiles",
+      "marca": "Microsoft",
+      "precio": 950,
+      "stock": 110,
+      "imagen": "c3VyZmFjZSBpbWFnZSBkYXRhIGhleGFkZWNpbWFs"
+    }
+  ]
+  

@@ -1,0 +1,15 @@
+[
+    {"usuario01": {
+        "id": 1,
+        "nombre": "Usuario1",
+        "contrasena": "123",
+        "tipo": "Cliente"
+    }},
+
+    {"usuario02": {
+        "id": 2,
+        "nombre": "Empleado1",
+        "contrasena": "123",
+        "tipo": "Empleado"
+    }}
+]
